@@ -1,9 +1,11 @@
 ---
 ---
 
-# Mandeville Lab
+The Mandeville Lab studies the evolution of fish populations, with a focus on the mechanisms that create, maintain, or threaten biodiversity. We think about hybridization, speciation, anthropogenic disturbance, and ecological mechanisms. We particularly like using computational approaches, including high performance computing, hierarchical modeling, simulations, and interactive data visualization. We also incorporate ecological data to better understand evolutionary and ecological interactions between species.
 
-The Mandeville Lab at Northern Michigan University studies the evolutionary genetics and ecology of freshwater fishes. 
+Much of our research has direct applications in fish conservation genomics, and involves collaboration with fisheries management agencies.
+
+If you are interested in graduate school opportunities (Master’s degree in Biology) in the Mandeville Lab at Northern Michigan University, please contact Dr. Liz Mandeville. 
 
 {% include section.html %}
 
