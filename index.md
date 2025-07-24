@@ -1,9 +1,9 @@
 ---
 ---
 
-# lizmandeville's Website
+# Mandeville Lab
 
-An engaging 1-3 sentence description of your lab.
+The Mandeville Lab at Northern Michigan University studies the evolutionary genetics and ecology of freshwater fishes. 
 
 {% include section.html %}
 
