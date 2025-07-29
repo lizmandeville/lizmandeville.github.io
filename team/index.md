@@ -14,7 +14,7 @@ The Mandeville Lab includes graduate students and undergraduates at NMU and seve
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-{% include section.html background="images/background.jpg" dark=false %}
+{% include section.html background="images/background.jpg" dark=true %}
 
 If you're interested in joining the lab as a graduate student (MS) or undergraduate researcher, please contact Liz Mandeville
 
