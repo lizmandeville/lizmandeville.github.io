@@ -22,9 +22,9 @@ If you're interested in joining the lab as a graduate student (MS) or undergradu
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/harlow.jpg" %}
+{% include figure.html image="images/liz.jpg" %}
+{% include figure.html image="images/katherine.jpg" %}
 
 {% endcapture %}
 
