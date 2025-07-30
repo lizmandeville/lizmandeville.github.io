@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Here are papers by Dr. Mandeville and current/former members of the lab. If you have trouble getting a PDF of any of these, please contact me, and I'll be happy to share our work. (NOTE: This page isn't quite working yet, so it's not yet our work! It's the template instead, oops. Fixing it soon.)
 
 {% include section.html %}
 
