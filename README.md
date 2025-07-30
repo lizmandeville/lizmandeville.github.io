@@ -5,6 +5,6 @@
 
   # lizmandeville's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[lizmandeville.github.io](https://lizmandeville.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
