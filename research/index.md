@@ -13,7 +13,7 @@ Here are papers by Dr. Mandeville and current/former members of the lab. If you 
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="A novel sex-associated genomic region in Catostomus fish species" style="rich" %}
 
 {% include section.html %}
 
