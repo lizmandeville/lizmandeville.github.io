@@ -1,11 +1,11 @@
 ---
-name: Sarah Johnson
-image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+name: Steph Mrenna
+image: images/steph.jpg
+description: Master's Student, NMU
+role: grad
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: smrenna@nmu.edu
+
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Steph is a Master's Student at NMU, working on the evolutionary genetics of <i>Chrosomus<\i> dace, a small freshwater fish with a very intriguing life history! See the Projects page for more information.
