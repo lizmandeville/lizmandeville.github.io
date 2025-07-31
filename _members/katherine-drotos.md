@@ -2,6 +2,7 @@
 name: Dr. Katherine Drotos
 image: images/katherine.jpg
 role: postdoc
+affiliation: University of Guelph
 links:
   github: https://github.com/kdrotos
 ---
