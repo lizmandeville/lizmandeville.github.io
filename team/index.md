@@ -17,14 +17,15 @@ Note, this page is under construction and does not yet include everyone who shou
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi' && role != 'alum'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
-
 If you're interested in joining the lab as a graduate student (MS) or undergraduate researcher, please contact Liz Mandeville
 
 # {% include icon.html icon="fa-solid fa-users" %}Lab Alumni
 
 These folks have moved on to new adventures. See what each of them is doing below!
 {% include list.html data="members" component="portrait" filter="role == 'alum'" %}
+
+{% include section.html background="images/harlow.jpg" dark=true %}
+
 {% include section.html %}
 
 {% capture content %}
