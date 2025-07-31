@@ -5,7 +5,7 @@ description: Undergraduate
 role: undergrad
 affiliation: Northern Michigan University
 links:
-  email: smrenna@nmu.edu
+  
 
 ---
 
