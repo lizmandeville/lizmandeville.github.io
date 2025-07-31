@@ -30,6 +30,9 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+alum:
+  description: Lab Alumni
+
 # general
 
 link:
