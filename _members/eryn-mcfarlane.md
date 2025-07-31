@@ -1,7 +1,7 @@
 ---
 name: Dr. Eryn McFarlane
 image: images/eryn.jpg
-role: postdoc
+role: alum
 links:
   github: https://github.com/erynmcfarlane
   home-page: https://www.yorku.ca/science/profiles/faculty/eryn-mcfarlane/
