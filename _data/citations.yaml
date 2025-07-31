@@ -1,8 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- -id: doi:10.1093/jhered/esaf007
+- id: doi:10.1093/jhered/esaf007
+  title: A novel sex-associated genomic region in <i>Catostomus</i> fish species
+  authors:
+  - Cassandre B Pyne
+  - Jillian N Campbell
+  - S Eryn McFarlane
+  - Elizabeth G Mandeville
+  publisher: Journal of Heredity
+  date: '2025-05-29'
+  link: https://doi.org/g9vp97
   plugin: sources.py
   file: sources.yaml
-- -id: orcid:0000-0002-9461-9140
+- id: orcid:0000-0002-9461-9140
+  title: ORCID
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://orcid.org/0000-0002-9461-9140
   plugin: sources.py
   file: sources.yaml
