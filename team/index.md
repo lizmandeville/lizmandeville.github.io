@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-The Mandeville Lab includes graduate students and undergraduates at NMU and several members based at the University of Guelph. We also have a few "friends of the lab" who defy classification, but we love them so you'll find info about them here. We're proud of our alumni too - look below to see what they're up to now!
+The Mandeville Lab includes graduate students and undergraduates at NMU and several members based at the University of Guelph. We also have a few "Friends of the Lab" who defy classification, and lab alumni doing cool new things. 
 
 Note, this page is under construction and does not yet include everyone who should be here. 
 
