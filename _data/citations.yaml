@@ -12,11 +12,3 @@
   link: https://doi.org/g9vp97
   plugin: sources.py
   file: sources.yaml
-- id: orcid:0000-0002-9461-9140
-  title: ORCID
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://orcid.org/0000-0002-9461-9140
-  plugin: sources.py
-  file: sources.yaml
