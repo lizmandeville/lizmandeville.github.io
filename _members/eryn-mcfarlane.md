@@ -2,6 +2,7 @@
 name: Dr. Eryn McFarlane
 image: images/eryn.jpg
 role: alum
+affiliation: York University
 links:
   github: https://github.com/erynmcfarlane
   home-page: https://www.yorku.ca/science/profiles/faculty/eryn-mcfarlane/
