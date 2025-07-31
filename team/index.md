@@ -15,7 +15,7 @@ Note, this page is under construction and does not yet include everyone who shou
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi' & role != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi' && role != 'alum'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
