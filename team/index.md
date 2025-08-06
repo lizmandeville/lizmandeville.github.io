@@ -7,7 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-The Mandeville Lab includes graduate students and undergraduates at NMU and several members based at the University of Guelph. We also have a few "Friends of the Lab" who defy classification, and lab alumni doing cool new things. 
+The Mandeville Lab includes graduate students and undergraduates at NMU and several members based at the University of Guelph. We also have a few "Friends of the Lab" who defy classification. Our lab alumni are up to cool things too - see below for what former members of the lab are doing. 
+
+If you're interested in joining the lab as a graduate student (MS) or undergraduate researcher, please contact Liz Mandeville. 
 
 Note, this page is under construction and does not yet include everyone who should be here. 
 
@@ -17,11 +19,9 @@ Note, this page is under construction and does not yet include everyone who shou
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi' && role != 'alum'" %}
 
-If you're interested in joining the lab as a graduate student (MS) or undergraduate researcher, please contact Liz Mandeville
 
 # {% include icon.html icon="fa-solid fa-users" %}Lab Alumni
 
-These folks have moved on to new adventures. See what each of them is doing below!
 {% include list.html data="members" component="portrait" filter="role == 'alum'" %}
 
 {% include section.html background="images/harlow.jpg" dark=true %}
