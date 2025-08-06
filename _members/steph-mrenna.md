@@ -1,7 +1,8 @@
 ---
 name: Steph Mrenna
 image: images/steph.jpg
-description: Master's Student, NMU
+description: Master's Student
+affiliation: Northern Michigan University
 role: grad
 links:
   email: smrenna@nmu.edu
