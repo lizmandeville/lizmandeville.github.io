@@ -1,8 +1,8 @@
 ---
-title: Example post 3
+title: Test post
 image: images/photo.jpg
-author: john-doe
-tags: biology, medicine
+author: liz-mandeville
+tags: fish
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+One fish, two fish. Red fish, blue fish. Liz likes fish.
