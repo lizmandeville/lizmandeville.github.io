@@ -11,7 +11,7 @@
 - title: Sex determination and hybridization in Catostomus suckers
   subtitle: Cassandre Pyne, Liz Mandeville
   group: featured
-  image: images/photo.jpg
+  image: images/gunnison.jpg
   description: In Catostomus fishes (suckers) in the Upper Colorado River basin (Colorado, Wyoming, and Utah, USA), complex hybridization dynamics involving six different parental species lead to extremely variable genomic outcomes of hybridization. Hybrids are more constrained in some crosses than others, but it is unclear what mechanisms drive reproductive isolation. We aim to 1) identify regions of the genome associated with sex determination in Catostomus suckers, and 2) apply this knowledge to better describe hybridization outcomes.
   tags:
     - Catostomus
@@ -20,8 +20,7 @@
 
 - title: Genetic structure of fish populations in agricultural streams
   subtitle: Amanda Meuser, Amy Pitura, Liz Mandeville
-  image: images/photo.jpg
-  link: https://github.com/
+  image: images/agditch.jpg
   description: As a part of the University of Guelph’s Food From Thought program, and in collaboration with several other groups in the Integrative Biology department, this project aims to determine the effects of agricultural land use and habitat fragmentation on the genetic structure of fish populations. We are comparing genetic differentiation and genetic diversity across several species sampled at these sites, including creek chub and common shiner. We will also identify any hybridization that has occurred; common shiner is known to hybridize with several other species found at these sites, and hybridization is often more common in disturbed landscapes.
   tags:
     - minnows
@@ -31,9 +30,8 @@
 
 - title: Efficacy of a Resistance Board Weir intervention to reduce Catostomus hybridization
   subtitle: Jillian Campbell, Liz Mandeville
-  image: images/roubideau.jpg
+  image: images/roubideaumaybe.jpg
   description: Native and non-native Catostomus suckers are known to hybridize extensively in the Gunnison River Basin located in Colorado. It is thought that maladaptive hybrids are causing demographic swamping in this population, resulting in the potential loss of native species. Implementing an intervention approach such as a Resistance Board Weir (RBW) to stop passage of non-native suckers provides a plausible solution to this hybridization problem. Using genetic evidence, we aim to understand how successful an RBW intervention is as a means to reducing hybridization and how ancestry trends of larval offspring vary across the spawning habitat.
-  
   tags:
     - Catostomus
     - hybridization
@@ -41,7 +39,7 @@
 
 - title: Machine learning to identify fish hybrids
   subtitle: Amy Pitura, Liz Mandeville
-  image: images/nfshoshone.jpg
+  image: images/nfbridge.jpg
   description: Rainbow trout (Oncorhynchus mykiss) have been widely introduced across the world, and can hybridize with native trout. In the North Fork Shoshone River drainage (Cody, Wyoming), rainbow trout hybridize with native Yellowstone cutthroat trout (Oncorhynchus clarki bouvieri). The resulting parental and hybrid juveniles can be difficult to identify without genetic analysis. Machine learning for analysis of images might provide a useful tool to identify phenotypes of these genotypes. We are training a model using images of previously sequenced individuals – i.e., genetic identity is known – as labeled training data. If successful, this approach could serve as a useful tool in conservation for identifying fish species.
   tags:
     - hybridization
