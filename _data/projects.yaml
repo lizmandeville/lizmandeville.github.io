@@ -1,44 +1,49 @@
-- title: Sex determination and hybridization in <i>Chrosomus</i> dace
-  subtitle: a subtitle
+ - title: Sex determination and hybridization in <i>Chrosomus</i> dace
+  subtitle: Ben Schultz, Steph Mrenna, Liz Mandeville
   group: featured
-  image: images/osprey.jpg
   image: images/dace_info_NSERC.jpg
   description: All-female, asexually reproducing populations of dace can be found across the US and Canada. It is believed that these lineages originated from hybridization events between <i>Chrosomus eos</i> and <i>C. neogaeus</i> in a glacial refugium approximately 50,000 years ago, but the origins of these lineages are still poorly understood. Our work in this system in Ontario (led by Dr. Ben Schultz) uncovered unexpected evidence of contemporary hybridization and ongoing production of backcrossed hybrids, reshaping our understanding of the evolutionary history of these species and hybrid lineages. We aim to identify the history of hybridization and any potential backcrossing, as well as comparing sex determination mechanisms in parental lineages to identify potential incompatibilities.
+  tags: 
+  - Chrosomus
+  - sex determination
+  - hybridization
   
-- title: Cool Package
-  subtitle: a subtitle
+- title: Sex determination and hybridization in Catostomus suckers
+  subtitle: Cassandre Pyne, Liz Mandeville
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: In Catostomus fishes (suckers) in the Upper Colorado River basin (Colorado, Wyoming, and Utah, USA), complex hybridization dynamics involving six different parental species lead to extremely variable genomic outcomes of hybridization. Hybrids are more constrained in some crosses than others, but it is unclear what mechanisms drive reproductive isolation. We aim to 1) identify regions of the genome associated with sex determination in Catostomus suckers, and 2) apply this knowledge to better describe hybridization outcomes.
   tags:
-    - resource
+    - Catostomus
+    - sex determination
+    - hybridization
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Genetic structure of fish populations in agricultural streams
+  subtitle: Amanda Meuser, Amy Pitura, Liz Mandeville
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: As a part of the University of Guelph’s Food From Thought program, and in collaboration with several other groups in the Integrative Biology department, this project aims to determine the effects of agricultural land use and habitat fragmentation on the genetic structure of fish populations. We are comparing genetic differentiation and genetic diversity across several species sampled at these sites, including creek chub and common shiner. We will also identify any hybridization that has occurred; common shiner is known to hybridize with several other species found at these sites, and hybridization is often more common in disturbed landscapes.
   tags:
-    - resource
-    - publication
+    - minnows
+    - Leuciscidae
+    - hybridization
+    - disturbance
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Efficacy of a Resistance Board Weir intervention to reduce Catostomus hybridization
+  subtitle: Jillian Campbell, Liz Mandeville
+  image: images/roubideau.jpg
+  description: Native and non-native Catostomus suckers are known to hybridize extensively in the Gunnison River Basin located in Colorado. It is thought that maladaptive hybrids are causing demographic swamping in this population, resulting in the potential loss of native species. Implementing an intervention approach such as a Resistance Board Weir (RBW) to stop passage of non-native suckers provides a plausible solution to this hybridization problem. Using genetic evidence, we aim to understand how successful an RBW intervention is as a means to reducing hybridization and how ancestry trends of larval offspring vary across the spawning habitat.
+  
   tags:
-    - software
+    - Catostomus
+    - hybridization
+    - conservation
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Machine learning to identify fish hybrids
+  subtitle: Amy Pitura, Liz Mandeville
+  image: images/nfshoshone.jpg
+  description: Rainbow trout (Oncorhynchus mykiss) have been widely introduced across the world, and can hybridize with native trout. In the North Fork Shoshone River drainage (Cody, Wyoming), rainbow trout hybridize with native Yellowstone cutthroat trout (Oncorhynchus clarki bouvieri). The resulting parental and hybrid juveniles can be difficult to identify without genetic analysis. Machine learning for analysis of images might provide a useful tool to identify phenotypes of these genotypes. We are training a model using images of previously sequenced individuals – i.e., genetic identity is known – as labeled training data. If successful, this approach could serve as a useful tool in conservation for identifying fish species.
   tags:
-    - software
+    - hybridization
+    - trout
+    - machine learning
