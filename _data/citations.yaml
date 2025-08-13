@@ -12,3 +12,19 @@
   link: https://doi.org/g9vp97
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1002/ece3.11706
+  title: Influence of dams on sauger population structure and hybridization with introduced
+    walleye
+  authors:
+  - William C. Rosenthal
+  - Elizabeth G. Mandeville
+  - Ashleigh M. Pilkerton
+  - Paul C. Gerrity
+  - Joseph A. Skorupski
+  - Annika W. Walters
+  - Catherine E. Wagner
+  publisher: Ecology and Evolution
+  date: '2024-07-01'
+  link: https://doi.org/g9wxqz
+  plugin: sources.py
+  file: sources.yaml
