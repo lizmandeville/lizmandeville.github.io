@@ -1,9 +1,19 @@
 - title: Sex determination and hybridization in <i>Chrosomus</i> dace
   subtitle: Ben Schultz, Steph Mrenna, Liz Mandeville
   group: featured
-  image: images/dace_info_NSERC.jpg
+  image: images/osprey.jpg
   description: All-female, asexually reproducing populations of dace can be found across the US and Canada. It is believed that these lineages originated from hybridization events between <i>Chrosomus eos</i> and <i>C. neogaeus</i> in a glacial refugium approximately 50,000 years ago, but the origins of these lineages are still poorly understood. Our work in this system in Ontario (led by Dr. Ben Schultz) uncovered unexpected evidence of contemporary hybridization and ongoing production of backcrossed hybrids, reshaping our understanding of the evolutionary history of these species and hybrid lineages. We aim to identify the history of hybridization and any potential backcrossing, as well as comparing sex determination mechanisms in parental lineages to identify potential incompatibilities.
   tags: 
   - Chrosomus
   - sex determination
   - hybridization
+
+- title: Sex determination and hybridization in Catostomus suckers
+  subtitle: Cassandre Pyne, Liz Mandeville
+  group: featured
+  image: images/gunnison.jpg
+  description: In Catostomus fishes (suckers) in the Upper Colorado River basin (Colorado, Wyoming, and Utah, USA), complex hybridization dynamics involving six different parental species lead to extremely variable genomic outcomes of hybridization. Hybrids are more constrained in some crosses than others, but it is unclear what mechanisms drive reproductive isolation. We aim to 1) identify regions of the genome associated with sex determination in Catostomus suckers, and 2) apply this knowledge to better describe hybridization outcomes.
+  tags:
+    - Catostomus
+    - sex determination
+    - hybridization
