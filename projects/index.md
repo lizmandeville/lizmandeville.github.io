@@ -9,7 +9,7 @@ nav:
 
 Under construction! Check back soon
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="chrosomus, catostomus, hybridization, sex-determination" %}
 
 {% include search-info.html %}
 
