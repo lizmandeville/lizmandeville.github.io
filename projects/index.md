@@ -2,12 +2,10 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Current and past research projects
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
-
-Under construction! Check back soon
 
 {% include tags.html tags="chrosomus, catostomus, hybridization, sex-determination" %}
 
