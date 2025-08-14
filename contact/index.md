@@ -33,8 +33,8 @@ If you are interested in our work, or in positions in the lab, please get in tou
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/agpond.jpg"
+  caption="A deceptively beautiful pond in the midst of a soybean field"
 %}
 
 {% endcapture %}
@@ -44,21 +44,15 @@ If you are interested in our work, or in positions in the lab, please get in tou
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Fish
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Genetics
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Other cool stuff
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
