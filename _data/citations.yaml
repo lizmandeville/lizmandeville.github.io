@@ -28,3 +28,118 @@
   link: https://doi.org/g9wxqz
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1101/2025.07.14.664671
+  title: Extensive multi-species hybridization between Leuciscidae minnow species
+  authors:
+  - Amanda V. Meuser
+  - Amy R. Pitura
+  - S. Eryn McFarlane
+  - Elizabeth G. Mandeville
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-07-18'
+  link: https://doi.org/g9xs6h
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2024.10.11.617831
+  title: "The ambiguity of \u201Chybrid swarm\u201D: inconsistent definitions and\
+    \ applications in existing research"
+  authors:
+  - Jillian N. Campbell
+  - Elizabeth G. Mandeville
+  - Nathan C. Lewis
+  - Amanda V. Meuser
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-10-12'
+  link: https://doi.org/g9xs6j
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2024.07.19.604301
+  title: Test of a conservation intervention highlights temporal variability in hybridization
+    dynamics in<i>Catostomus</i>fishes
+  authors:
+  - Jillian N. Campbell
+  - Zachary E. Hooley-Underwood
+  - Elizabeth G. Mandeville
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-07-23'
+  link: https://doi.org/g9xs6k
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mec.17359
+  title: Selection leads to remarkable variability in the outcomes of hybridisation
+    across replicate hybrid zones
+  authors:
+  - S. Eryn McFarlane
+  - Joshua P. Jahner
+  - Dorothea Lindtke
+  - C. Alex Buerkle
+  - Elizabeth G. Mandeville
+  publisher: Molecular Ecology
+  date: '2024-05-03'
+  link: https://doi.org/g9xs6m
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tree.2023.10.012
+  title: Recommendations for quantitative uncertainty consideration in ecology and
+    evolution
+  authors:
+  - Emily G. Simmonds
+  - Kwaku P. Adjei
+  - Benjamin Cretois
+  - Lisa Dickel
+  - "Ricardo Gonz\xE1lez-Gil"
+  - Jack H. Laverick
+  - Caitlin P. Mandeville
+  - Elizabeth G. Mandeville
+  - Otso Ovaskainen
+  - Jorge Sicacha-Parada
+  - Emma S. Skarstein
+  - Bob O'Hara
+  publisher: Trends in Ecology &amp; Evolution
+  date: '2024-04-01'
+  link: https://doi.org/gtp3k4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/g3journal/jkad283
+  title: A high-quality reference genome for the common creek chub, <i>Semotilus atromaculatus</i>
+  authors:
+  - Amanda V Meuser
+  - Amy R Pitura
+  - Elizabeth G Mandeville
+  publisher: 'G3: Genes, Genomes, Genetics'
+  date: '2023-12-21'
+  link: https://doi.org/g9xs6n
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2023.12.21.572839
+  title: The first chromosome-level annotated reference genome for<i>Chrosomus eos</i>,
+    the northern redbelly dace
+  authors:
+  - Ben Schultz
+  - Elizabeth G. Mandeville
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-12-21'
+  link: https://doi.org/g9xs6p
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/nafm.10942
+  title: The optimal stocking strategy for Yaqui Catfish
+  authors:
+  - David R. Stewart
+  - Joseph C. Barron
+  - Tasha Harden
+  - Elizabeth R. Grube
+  - Manuel Ulibarri
+  - Andrew T. Taylor
+  - Edward J. Heist
+  - Elizabeth Mandeville
+  - Brian T. Hickerson
+  - Nathan Berg
+  - Lacrecia A. Johnson
+  - Matthew J. Butler
+  - Grant M. Harris
+  publisher: North American Journal of Fisheries Management
+  date: '2023-07-31'
+  link: https://doi.org/g9xs6q
+  plugin: sources.py
+  file: sources.yaml
