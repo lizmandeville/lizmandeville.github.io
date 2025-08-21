@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Here are papers by Dr. Liz Mandeville and current/former members of the lab. If you have trouble getting a PDF of any of these, please contact me, and I'll be happy to share our work. Also check out Liz's Google Scholar for more information <a href="url">[here](https://scholar.google.com/citations?user=k2OAOOIAAAAJ&hl=en)</a>.
+Here are papers by Dr. Liz Mandeville and members of the lab. If you have trouble getting a PDF of any of these, please contact me, and I'll be happy to share our work. Also check out Liz's Google Scholar for more information <a href="url">[here](https://scholar.google.com/citations?user=k2OAOOIAAAAJ&hl=en)</a>.
 
 {% include section.html %}
 
