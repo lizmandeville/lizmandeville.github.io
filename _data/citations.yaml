@@ -143,3 +143,137 @@
   link: https://doi.org/g9xs6q
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1093/evolut/qpad059
+  title: Parallel shifts in trout feeding morphology suggest rapid adaptation to alpine
+    lake environments
+  authors:
+  - Lucia L Combrink
+  - William C Rosenthal
+  - Lindsey J Boyle
+  - Jessica A Rick
+  - Elizabeth G Mandeville
+  - Amy C Krist
+  - Annika W Walters
+  - Catherine E Wagner
+  publisher: Evolution
+  date: '2023-04-21'
+  link: https://doi.org/g9xs7n
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/gcb.16527
+  title: Diverse data sources and new statistical models offer prospects for improving
+    the predictability of anthropogenic hybridization
+  authors:
+  - S. Eryn McFarlane
+  - Elizabeth G. Mandeville
+  publisher: Global Change Biology
+  date: '2022-11-25'
+  link: https://doi.org/gwmbgj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.isci.2022.105512
+  title: Insights into the quantification and reporting of model-related uncertainty
+    across different disciplines
+  authors:
+  - Emily G. Simmonds
+  - Kwaku Peprah Adjei
+  - Christoffer Wold Andersen
+  - Janne Cathrin Hetle Aspheim
+  - Claudia Battistin
+  - Nicola Bulso
+  - Hannah M. Christensen
+  - Benjamin Cretois
+  - Ryan Cubero
+  - "Iv\xE1n A. Davidovich"
+  - Lisa Dickel
+  - Benjamin Dunn
+  - Etienne Dunn-Sigouin
+  - Karin Dyrstad
+  - Sigurd Einum
+  - Donata Giglio
+  - "Haakon Gjerl\xF8w"
+  - "Am\xE9lie Godefroidt"
+  - "Ricardo Gonz\xE1lez-Gil"
+  - Soledad Gonzalo Cogno
+  - "Fabian Gro\xDFe"
+  - Paul Halloran
+  - Mari F. Jensen
+  - John James Kennedy
+  - "Peter Egge Langs\xE6ther"
+  - Jack H. Laverick
+  - Debora Lederberger
+  - Camille Li
+  - Elizabeth G. Mandeville
+  - Caitlin Mandeville
+  - Espen Moe
+  - "Tobias Navarro Schr\xF6der"
+  - David Nunan
+  - Jorge Sicacha-Parada
+  - Melanie Rae Simpson
+  - Emma Sofie Skarstein
+  - Clemens Spensberger
+  - Richard Stevens
+  - Aneesh C. Subramanian
+  - Lea Svendsen
+  - Ole Magnus Theisen
+  - Connor Watret
+  - "Robert B. O\u2019Hara"
+  publisher: iScience
+  date: '2022-12-01'
+  link: https://doi.org/g9xs7p
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/jeb.14006
+  title: Limited evidence of a genetic basis for sex determination in the common creek
+    chub, <i>Semotilus atromaculatus</i>
+  authors:
+  - Amanda V. Meuser
+  - Cassandre B. Pyne
+  - Elizabeth G. Mandeville
+  publisher: Journal of Evolutionary Biology
+  date: '2022-04-12'
+  link: https://doi.org/g9xs7q
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mec.16578
+  title: Hybridization decreases native cutthroat trout reproductive fitness
+  authors:
+  - William C. Rosenthal
+  - John M. Fennell
+  - Elizabeth G. Mandeville
+  - Jason C. Burckhardt
+  - Annika W. Walters
+  - Catherine E. Wagner
+  publisher: Molecular Ecology
+  date: '2022-07-13'
+  link: https://doi.org/g9xs7r
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/evo.14624
+  title: "Ecological outcomes of hybridization vary extensively in\n            <i>Catostomus</i>\n\
+    \            fishes"
+  authors:
+  - Elizabeth G. Mandeville
+  - Robert O. Hall
+  - C. Alex Buerkle
+  publisher: Evolution
+  date: '2022-09-27'
+  link: https://doi.org/g9xs7s
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/1755-0998.13330
+  title: "Model\u2010based genotype and ancestry estimation for potential hybrids\
+    \ with mixed\u2010ploidy"
+  authors:
+  - Vivaswat Shastry
+  - Paula E. Adams
+  - Dorothea Lindtke
+  - Elizabeth G. Mandeville
+  - Thomas L. Parchman
+  - Zachariah Gompert
+  - C. Alex Buerkle
+  publisher: Molecular Ecology Resources
+  date: '2021-02-09'
+  link: https://doi.org/gm65jq
+  plugin: sources.py
+  file: sources.yaml
