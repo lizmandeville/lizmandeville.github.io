@@ -15,4 +15,4 @@ nav:
 
 ## Current Projects
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" style="small" %}
