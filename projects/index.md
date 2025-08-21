@@ -13,12 +13,6 @@ nav:
 
 {% include section.html %}
 
-## Featured
-
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
+## Current Projects
 
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
