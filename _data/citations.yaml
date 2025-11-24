@@ -1,7 +1,8 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1093/jhered/esaf007
-  title: A novel sex-associated genomic region in <i>Catostomus</i> fish species
+  title: "A novel sex-associated genomic region in\n                    <i>Catostomus</i>\n\
+    \                    fish species"
   authors:
   - Cassandre B Pyne
   - Jillian N Campbell
@@ -101,7 +102,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/g3journal/jkad283
-  title: A high-quality reference genome for the common creek chub, <i>Semotilus atromaculatus</i>
+  title: "A high-quality reference genome for the common creek chub,\n           \
+    \         <i>Semotilus atromaculatus</i>"
   authors:
   - Amanda V Meuser
   - Amy R Pitura
@@ -224,8 +226,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/jeb.14006
-  title: Limited evidence of a genetic basis for sex determination in the common creek
-    chub, <i>Semotilus atromaculatus</i>
+  title: "Limited evidence of a genetic basis for sex determination in the common\
+    \ creek chub,\n                    <i>Semotilus atromaculatus</i>"
   authors:
   - Amanda V. Meuser
   - Cassandre B. Pyne
@@ -250,8 +252,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/evo.14624
-  title: "Ecological outcomes of hybridization vary extensively in\n            <i>Catostomus</i>\n\
-    \            fishes"
+  title: "Ecological outcomes of hybridization vary extensively in\n             \
+    \       <i>Catostomus</i>\n                    fishes"
   authors:
   - Elizabeth G. Mandeville
   - Robert O. Hall
