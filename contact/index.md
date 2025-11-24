@@ -18,7 +18,7 @@ If you are interested in our work, or in positions in the lab, please get in tou
 
 ## Master's position for fall 2026
 
-he Mandeville Lab at Northern Michigan University is recruiting a MS student to work on the evolutionary genomics of freshwater fish (start date fall 2026). 
+The Mandeville Lab at Northern Michigan University is recruiting a MS student to work on the evolutionary genomics of freshwater fish (start date fall 2026). 
 
 Research in our lab focuses on how evolutionary processes shape freshwater fish biodiversity. Specific project topic will depend on the interests of the successful candidate, but possible focus areas include hybridization, effects of anthropogenic disturbance, population connectivity, and the evolution of fish sex determination mechanisms. We work on many different groups of freshwater fish, including but not limited to suckers, whitefish, dace, and leuciscid minnows.
 
