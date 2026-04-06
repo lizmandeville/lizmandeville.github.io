@@ -36,7 +36,7 @@
   - Amy R. Pitura
   - S. Eryn McFarlane
   - Elizabeth G. Mandeville
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-07-18'
   link: https://doi.org/g9xs6h
   plugin: sources.py
@@ -49,19 +49,19 @@
   - Elizabeth G. Mandeville
   - Nathan C. Lewis
   - Amanda V. Meuser
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-10-12'
   link: https://doi.org/g9xs6j
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2024.07.19.604301
-  title: Test of a conservation intervention highlights temporal variability in hybridization
-    dynamics in<i>Catostomus</i>fishes
+  title: "Test of a conservation intervention highlights temporal variability in hybridization\
+    \ dynamics in\n                  <i>Catostomus</i>\n                  fishes"
   authors:
   - Jillian N. Campbell
   - Zachary E. Hooley-Underwood
   - Elizabeth G. Mandeville
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-07-23'
   link: https://doi.org/g9xs6k
   plugin: sources.py
@@ -114,12 +114,12 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.12.21.572839
-  title: The first chromosome-level annotated reference genome for<i>Chrosomus eos</i>,
-    the northern redbelly dace
+  title: "The first chromosome-level annotated reference genome for\n            \
+    \      <i>Chrosomus eos</i>\n                  , the northern redbelly dace"
   authors:
   - Ben Schultz
   - Elizabeth G. Mandeville
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-12-21'
   link: https://doi.org/g9xs6p
   plugin: sources.py
