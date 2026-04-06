@@ -1,6 +1,6 @@
 ---
 name: Dr. Liz Mandeville
-image: images/liz.jpg
+image: images/liz_harlow.jpg
 role: principal-investigator
 affiliation: Northern Michigan University
 links:
