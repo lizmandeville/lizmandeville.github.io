@@ -56,6 +56,7 @@ Find out more about our ongoing and recent projects!
   flip=true
   style="bare"
   text=text
+  alt="An image of Osprey Wetland"
 %}
 
 {% capture text %}
